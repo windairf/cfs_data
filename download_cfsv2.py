@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-Download cfsv2 data from https://nomads.ncdc.noaa.gov/
+Author: Dai Rufeng
+This script is used to download cfsv2 data from https://nomads.ncdc.noaa.gov/
 """
 
 import os
